@@ -5,8 +5,8 @@
 
   Although we developed the ECG dataset to perform efficient code generation, the ECG dataset is an exhaustive dataset that can be applied to different tasks. Therefore, we derived three datasets from this feature of the ECG dataset that can be applied to different specific code processing tasks to fill the gap of other code processing-oriented datasets.
   
-Among the ECG datasets our model uses for efficient code generation, we derive three datasets from them: [ECG-CG](https://github.com/CodeGeneration2/ECG-CG-DataSet), ECG-mini, and ECG-clone. 
-The specific description of the [ECG-CG dataset](https://github.com/CodeGeneration2/ECG-CG-DataSet) below.
+Among the ECG datasets our model uses for efficient code generation, we derive three datasets from them: [ECG-CG](https://github.com/CodeGeneration2/ECG-CG-DataSet/tree/main/ECG-CG), ECG-mini, and ECG-clone. 
+The specific description of the [ECG-CG dataset](https://github.com/CodeGeneration2/ECG-CG-DataSet/tree/main/ECG-CG) below.
 
 
 ## ECG–CG DataSet
